@@ -13,7 +13,7 @@ const measureCount = document.querySelector('.measure-count');
 const click1 = new Audio('Sounds/SecondClick Metronome.m4a');
 const click2 = new Audio('Sounds/First Click 1.m4a');
 
-let bpm = 120;
+let bpm = 150;
 let beatsPerMeasure = 4;
 let count = 0;
 let isRunning = false;
