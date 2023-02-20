@@ -1,4 +1,4 @@
-# Free-Metronome-web-app
+# Metronome-web-app
 
 Hola Musicians out there!!!
 Being a musician I was really obsessed with the BPM/tempo of a song, so decided to make an online metronome that plays the clicks at a regular interval and helps tons of musicians to make great songs.
